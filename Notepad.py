@@ -98,7 +98,7 @@ class Notepad:
         A1.geometry("600x250")
         A1.title("About Us")
         Label(A1, text="This Notepad is Created by:- ", font="lucida 16 bold").pack()
-        Label(A1, text="unknown", font="lucida 16 bold").pack()
+        Label(A1, text="Sumitha", font="lucida 16 bold").pack()
         Label(A1, text="With the help of:-", font="lucida 16 bold").pack()
         Label(A1, text="Python 3 and Tkinter ", font="lucida 16 bold").pack()
 #MainMenu Setup
